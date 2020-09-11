@@ -1,0 +1,1 @@
+This is my first homework assignment. I will be first demonstrating this with a git commit and a push.
